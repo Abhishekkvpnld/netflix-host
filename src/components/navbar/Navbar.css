@@ -1,0 +1,79 @@
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+
+.avatar{
+    position: fixed;
+   right: 20px;
+    width: 30px;
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+    color: white;
+}
+
+.home{
+    margin-left: 120px;
+    cursor: pointer;
+    
+}
+
+.movies{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.tvShows{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.popular{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.myList{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.nav-title{
+    color: rgb(208, 205, 205);
+}
+
+.myList:hover{
+    color: white;
+   
+}
+
+.popular:hover{
+    color: white;
+   
+}
+
+.movies:hover{
+    color: white;
+   
+}
+
+.tvShows:hover{
+    color: white;
+   
+}
+
+.home:hover{
+    color: white;
+   
+}
+
